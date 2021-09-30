@@ -8,21 +8,21 @@ h1{
 }
 h2{
     font-style: bold;
-    color: brown;
+    color: blue;
     font-size: x-large;
 
 }
 button{
- border-color: brown;   
+ border-color: blue;   
  font-weight: bolder;
 }
 input{
     border-radius: 0.5rem;
     font-size: large;
-    border-color: brown;
+    border-color: blue;
 }
 p{
-    color: brown;
+    color: blue;
     font-size: large;
     font-weight: bolder;
 }
